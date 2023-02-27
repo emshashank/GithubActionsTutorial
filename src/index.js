@@ -81,4 +81,4 @@ export default class Pencil {
     return charactersOnPaper.join('');
   }
 };
-//comment
+//comment2
